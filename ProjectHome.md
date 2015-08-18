@@ -1,0 +1,1 @@
+An app using j2me to make telephone communicate via Bluetooth.
